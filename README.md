@@ -14,6 +14,8 @@ Nó cũng có một số tính năng bổ sung:
 
 Đây sẽ là extension hữu ích có nếu các bạn có con cháu nhỏ, giúp tránh khỏi những nội dung không lành mạnh.
 
+Tải về : https://github.com/truongsofm/youtube-blocker-v2/archive/master.zip
+
 Mình đã tạo sẵn 1 file JSON có tên youtube_blocker_backup.json. Các bạn khi tải về chỉ cần click vào tiện ích ---> sau đó chọn nhập JSON.
 Video hướng dẫn cài extension : https://youtu.be/doDxx8_Rz8M
 
